@@ -174,7 +174,7 @@ void displayAllContacts(Contact * contactList, int contactCount) {
 
 void helpText() {
 	printf("------------------------\n");
-	printf("-a: add to phonebook\n-v: view all contacts\n-s: search phonebook based on query\n-c: clear console\n-q: quit\n");
+	printf("-a: Add to phonebook\n-v: View all contacts\n-s: Search phonebook based on query\n-c: Clear console\n-q: Quit\n");
 	printf("------------------------\n");
 }
 
