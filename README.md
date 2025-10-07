@@ -8,4 +8,13 @@ Digital Phonebook CLI written in C
   - Clear console
 
 # Commands
-  - Run -h to view all commands, corresponds to the above features
+  `-a`: Add to phonebook
+  `-v`: View all contacts
+  `-s`: Search phonebook for contact based on query
+  `-c`: Clear console
+  `-q`: Quit program
+  `-h`: See command list
+
+# To Run
+  - Use the provided Makefile to create phonebook.out
+  - Enter ./phonebook.out into your terminal
