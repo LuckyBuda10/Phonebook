@@ -9,10 +9,15 @@ Digital Phonebook CLI written in C
 
 # Commands
   `-a`: Add to phonebook
+  
   `-v`: View all contacts
+  
   `-s`: Search phonebook for contact based on query
+  
   `-c`: Clear console
+  
   `-q`: Quit program
+  
   `-h`: See command list
 
 # To Run
